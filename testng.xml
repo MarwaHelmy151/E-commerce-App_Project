@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="nopcommerce demo store">
+
+
+	<test name="Regression Test">
+		<classes>
+			
+			<class name="tests.SC01_UserRegistartionTest" />
+			
+			
+		</classes>
+	</test>
+</suite> 
+
+
+
+
